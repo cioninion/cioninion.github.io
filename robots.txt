@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cioninion.github.io/sitemap.html.gz
+Sitemap: https://cioninion.github.io/app/sitemap.html.gz
+Sitemap: https://cioninion.github.io/assets/sitemap.html.gz
+Sitemap: https://cioninion.github.io/css/sitemap.html.gz
+Sitemap: https://cioninion.github.io/includes/sitemap.html.gz
+Sitemap: https://cioninion.github.io/item/sitemap.html.gz
+Sitemap: https://cioninion.github.io/src/sitemap.html.gz
